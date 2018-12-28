@@ -1,4 +1,5 @@
 # Metadefender scan a folder.
+# CC Craig Jones Sophos 
 # A folder is passed in as the parameter.
 # pymetascanner.py /path/to/some/folder
 
